@@ -3,10 +3,10 @@
 
 This repo with my solutions..
 
-##### AtomicClock.py
+##### [AtomicClock.py](https://github.com/rraghu214/Complete-Python-3-Bootcamp/blob/master/4.FinalCapstoneProject/AtomicClock.py)
 This program will get the true atomic time from an atomic time clock on the Internet by invoking a public API.
 
-##### Calculator.py
+##### [Calculator.py](https://github.com/rraghu214/Complete-Python-3-Bootcamp/blob/master/4.FinalCapstoneProject/Calculator.py)
 Basic and Scientfic Calculator.
 
 
