@@ -10,6 +10,9 @@ This program will get the true atomic time from an atomic time clock on the Inte
 Basic and Scientfic Calculator.
 
 
+##### [Top5_Headlines_Google_Text_Speech.py](https://github.com/rraghu214/Complete-Python-3-Bootcamp/blob/master/4.FinalCapstoneProject/Top5_Headlines_Google_Text_Speech/Top5_Headlines_Google_Text_Speech.py)
+Obtain today's Top 5 Headlines of your country. Used Google Text To Speech to read it out. Sit back and relax!
+
 
 [(Solution Links by other users additional reference)](https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Final%20Capstone%20Projects/Projects-Solutions/Solution%20Links.md)
 
