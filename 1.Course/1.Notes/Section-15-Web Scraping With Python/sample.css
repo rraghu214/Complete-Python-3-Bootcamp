@@ -1,0 +1,17 @@
+p { /** All paragraph elements in an HTML file will have this setting*/
+	color: yellow;
+	font-family: courier;
+	font-size: 160%;
+	
+}
+
+.someclass{
+	color: green;
+	font-family: verdana;
+	font-size: 300%;
+	
+}
+
+#someid{
+	color: blue;
+}

@@ -1,0 +1,8 @@
+#para2 {
+	color:red; /** para2 starts with # since it is an id call */
+}
+
+.cool { /** Classes are used when you want to add the same styles to multiple elements across html file. */
+	color: blue;
+	font-family: verdana;
+}
