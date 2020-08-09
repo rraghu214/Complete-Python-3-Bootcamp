@@ -15,8 +15,9 @@ Milestone Project-2 --> **Black Jack Game.**
 
 Final Capstone Project --> 
 
+
  - **Google Text To Speech**
  - **Atomic Clock**
  - **Basic & Scientific Calculator**
  
- and much more..
+ and much more...
