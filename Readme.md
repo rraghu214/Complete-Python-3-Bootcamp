@@ -1,4 +1,4 @@
-**Course Referene:**
+**Course Reference:**
 [Python Bootcamps: Learn Python Programming and Code Training \| Udemy](https://www.udemy.com/share/101W8QA0YZcVxTR3o=/)
 
 
@@ -13,4 +13,10 @@ Milestone Project-1 --> **Tic-Tac-Toe Game.**
 
 Milestone Project-2 --> **Black Jack Game.**
 
-Fincal Capstone Project --> 
+Final Capstone Project --> 
+
+ - **Google Text To Speech**
+ - **Atomic Clock**
+ - **Basic & Scientific Calculator**
+ 
+ and much more..
